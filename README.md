@@ -71,7 +71,7 @@ There is also a one-page poster introducing the skill: [HTML](https://tina040219
 
 ## Install
 
-ASIF builds its decks with [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) (Style A), so install that first. Both go in your Claude Code skills folder.
+ASIF builds its decks with [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) (Style A, "电子杂志 × 电子墨水"), so install that first. Both go in your Claude Code skills folder.
 
 ```bash
 # 1. The deck engine ASIF builds on
